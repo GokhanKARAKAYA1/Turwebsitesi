@@ -1,4 +1,4 @@
-<h2>Turwebsitesi</h2>
+<h2>Tur Websitesi</h2>
 
 <h5> Tur İşletmesi Web Sitesi </h5>
 
